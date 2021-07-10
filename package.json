@@ -1,0 +1,19 @@
+{
+  "name": "live-order-board-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "nodemon --config nodemon.json src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-order-board-crypto-inc": "^1.0.6",
+    "nodemon": "^2.0.11"
+  },
+  "devDependencies": {
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
