@@ -18,7 +18,7 @@ const executeOrders = async () => {
 
     console.log('Buy Orders summary');
     console.table(getOrdersSummary().buyOrders);
-    await new Promise((resolve) => setTimeout(resolve, 300));
+    await new Promise((resolve) => setTimeout(resolve, 700));
   }
 
   console.log('********Order Cancelation**********');
