@@ -6,10 +6,10 @@ Run project to view live BUY & SELL orders summary.
 
 ## Run project
 
-    1. Install node modules
+1. Install node modules
 
-    `npm install`
+   `npm install`
 
-    2. Run
+2. Run
 
-    `npm start`
+   `npm start`
